@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+<img width="507" alt="Screenshot 2024-04-12 072226" src="https://github.com/SIVAmech123/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/151629067/cd253719-d694-4cf3-9848-d0a4c9e6c91c">
+
 
 
 ## RESULT:
